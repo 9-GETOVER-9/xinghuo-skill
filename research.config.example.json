@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "preferred_platforms": ["GitHub", "X", "YouTube", "小红书", "知乎"],
+  "research_mode": "adaptive",
+  "output_directory": null,
+  "time_budget_minutes": null,
+  "language": "zh-CN"
+}

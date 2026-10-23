@@ -1,0 +1,4 @@
+interface:
+  display_name: "星火"
+  short_description: "跨平台寻找前人经验与已有方案，标明原始来源、实测范围和下一步"
+  default_prompt: "用 $xinghuo 搜索这个问题的前人经验，并告诉我哪些平台需要我手动查。"
